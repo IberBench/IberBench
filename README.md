@@ -41,4 +41,3 @@ You can reach us at:
 # 🫶 Acknowledgements
 
 IberBench has been funded by the Valencian Institute for Business Competitiveness (IVACE).
-<img src="https://www.ivace.es/images/logo2-ivace.PNG" width=200 height=200></img>
