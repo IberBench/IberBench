@@ -39,8 +39,6 @@ You can reach us at:
 - **🤗 Discussions**: [https://huggingface.co/spaces/iberbench/README/discussions](https://huggingface.co/spaces/iberbench/README/discussions)
 - **Github**: [https://github.com/IberBench](https://github.com/IberBench)
 
-# 🫶 Acknowledgements
+# 💲Funding
 
-IberBench has been funded by the Valencian Institute for Business Competitiveness (IVACE).
-
-![ivace_logo](ivace_logo.png)
+<img alt="This project has been partially funded by IVACE under expedient IMINOK/2023/121" src="./ivace.png">
